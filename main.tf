@@ -8,6 +8,6 @@ resource "aws_instance" "suraj_ec2" {
   key_name      = "your-key-name"         # Replace with your EC2 key pair name
 
   tags = {
-    Name = "Suraj-EC2"
+    Name = "New_Suraj-EC2"
   }
 }
